@@ -54,4 +54,11 @@ Hi,I'm Naim Salim🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Naim's github stats](https://github-readme-stats.vercel.app/api?username=naim-2&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naim-2&layout=pie)](https://github.com/naim-2/github-readme-stats)
+
+<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=naim-2)](https://github.com/naim-2/github-readme-stats)-->
+
+**Public Stats:**
+
+[![Naim's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=naim-2&show_icons=true&hide_border=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark#gh-dark-mode-only)](https://github.com/naim-2/github-readme-stats#gh-dark-mode-only)
+[![Naim's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=naim-2&show_icons=true&hide_border=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default#gh-light-mode-only)](https://github.com/naim-2/github-readme-stats#gh-light-mode-only)
