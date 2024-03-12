@@ -11,7 +11,7 @@
 
 <br />
 
-Hi,I'm Naim Salim🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Naim Salim🙌, a full stack software developer both in web applications and mobile applications. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 
 
