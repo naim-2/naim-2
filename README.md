@@ -17,10 +17,10 @@ Hi,I'm Naim Salim🙌, a full stack software developer both in web applications 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently an Intern at EA Eye Scout Limited.
+- 🔭 I’m currently a Junior Software Engineer at EA Eye Scout Limited.
 - 🌱 I’m currently learning Django.
-- 👯 I'm part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
+- 👯 I'm part of a Developer Community.
+- 💬 Ask me about anything, would love to answer them.✌
 - 📫 How to reach me:  [LinkedIn Profile!](https://ke.linkedin.com/in/naim-salim-35528425b)
 - ⚡ I'm a great international chess player.
 - 📝 Currently working on my portfolio[Portfolio](https://naim-2.github.io/MyPortfolio/)
