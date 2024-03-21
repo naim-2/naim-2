@@ -2,6 +2,10 @@
 ### Hello World 👋 It's [Naim!](https://github.com/naim-2)
 
 <br/>
+<p align="left">
+  <a href="https://github.com/naim-2/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&left=true;font=Fira%20Code&width=440&height=45&color=ffffff&pause=1000&size=22" /></a>
+</p>
 
 
 <a href="https://ke.linkedin.com/in/naim-salim-35528425b">
@@ -11,7 +15,7 @@
 
 <br />
 
-Hi,I'm Naim Salim🙌, a full stack software developer both in web applications and mobile applications. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Naim Salim🙌, a full stack software developer both in web applications and mobile applications. Apart from that I love getting involved in Competitive Programming and Problem Solving.✌
 
 
 
