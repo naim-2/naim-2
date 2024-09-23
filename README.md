@@ -27,7 +27,7 @@ Hi,I'm Naim Salim🙌, a full stack software developer both in web applications 
 - 💬 Ask me about anything, would love to answer them.✌
 - 📫 How to reach me:  [LinkedIn Profile!](https://ke.linkedin.com/in/naim-salim-35528425b)
 - ⚡ I'm a great international chess player.
-- 📝 Currently working on my portfolio[Portfolio](https://naim-2.github.io/MyPortfolio/)
+- 📝 Currently working on my [portfolio](https://naim-2.github.io/)
 
 
 **Community**
